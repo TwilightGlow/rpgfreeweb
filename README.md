@@ -1,3 +1,5 @@
+**Replaced with [vscode-rpgfree](https://github.com/BrianGarland/vscode-rpgfree).**
+
 # RPG freeformat converting
 
 Fixed to free converter written in Node.js JavaScript which you can self host. The port number is currently hardcoded to `9124`.
